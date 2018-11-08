@@ -1,0 +1,5 @@
+td, th{
+    border: 3px solid seagreen;
+    text-align: justify;
+    border-collapse: separate;
+}
